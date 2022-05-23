@@ -1,0 +1,2 @@
+# Cardiovascular-Diseases-Prediction-using-Logistic-Regression-in-R
+The purpose of this project is to illustrate the use of R Programming to solve the problem of Cardiovascular Diseases Prediction. In this project, we'll focus more on the Descriptive Analysis and Visualization and less on the Predictive Analysis. The project focuses on Data Exploration and Data Visualization before employing any Machine Learning model on it. In the latter part we'll use the most basic and frequently used approach for this kind of Business problem i.e. Logistic Regression.
